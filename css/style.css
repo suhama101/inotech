@@ -784,11 +784,13 @@ img {
   margin: 6px 0 8px;
   font-size: 26px;
   color: var(--color-heading);
+  text-align: left;
 }
 
 .hero-slim p {
   margin: 0;
   max-width: 640px;
+  text-align: left;
 }
 
 .project-grid {
